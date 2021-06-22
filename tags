@@ -1,0 +1,667 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Bookmark.AddBookmark	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.AddBookmark(name, path)$/;"	f
+Bookmark.BookmarkExistsFor	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.BookmarkExistsFor(name)$/;"	f
+Bookmark.BookmarkFor	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.BookmarkFor(name)$/;"	f
+Bookmark.BookmarkNames	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.BookmarkNames()$/;"	f
+Bookmark.Bookmarks	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.Bookmarks()$/;"	f
+Bookmark.CacheBookmarks	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.CacheBookmarks(silent)$/;"	f
+Bookmark.ClearAll	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.ClearAll()$/;"	f
+Bookmark.CompareBookmarksByName	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.CompareBookmarksByName(firstBookmark, secondBookmark)$/;"	f
+Bookmark.Edit	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.Edit()$/;"	f
+Bookmark.GetNodeForName	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.GetNodeForName(name, searchFromAbsoluteRoot, nerdtree)$/;"	f
+Bookmark.GetSelected	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.GetSelected()$/;"	f
+Bookmark.InvalidBookmarks	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.InvalidBookmarks()$/;"	f
+Bookmark.New	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.New(name, path)$/;"	f
+Bookmark.SortBookmarksList	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.SortBookmarksList()$/;"	f
+Bookmark.ToRoot	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.ToRoot(name, nerdtree)$/;"	f
+Bookmark.Write	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.Write()$/;"	f
+Bookmark.activate	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.activate(nerdtree, ...)$/;"	f
+Bookmark.delete	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.delete()$/;"	f
+Bookmark.getNode	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.getNode(nerdtree, searchFromAbsoluteRoot)$/;"	f
+Bookmark.mustExist	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.mustExist()$/;"	f
+Bookmark.open	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.open(nerdtree, ...)$/;"	f
+Bookmark.openInNewTab	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.openInNewTab(options)$/;"	f
+Bookmark.setPath	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.setPath(path)$/;"	f
+Bookmark.str	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.str()$/;"	f
+Bookmark.toRoot	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.toRoot(nerdtree)$/;"	f
+Bookmark.validate	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^function! s:Bookmark.validate()$/;"	f
+CreateTabTreeVCS	plugged/nerdtree/nerdtree_plugin/vcs.vim	/^function! s:CreateTabTreeVCS(name)$/;"	f
+Creator.BufNamePrefix	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.BufNamePrefix()$/;"	f
+Creator.CreateMirror	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.CreateMirror()$/;"	f
+Creator.CreateTabTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.CreateTabTree(name)$/;"	f
+Creator.CreateWindowTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.CreateWindowTree(dir)$/;"	f
+Creator.New	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.New()$/;"	f
+Creator.ToggleTabTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.ToggleTabTree(dir)$/;"	f
+Creator._bindMappings	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._bindMappings()$/;"	f
+Creator._broadcastInitEvent	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._broadcastInitEvent()$/;"	f
+Creator._createNERDTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._createNERDTree(path, type)$/;"	f
+Creator._createTreeWin	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._createTreeWin()$/;"	f
+Creator._isBufHidden	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._isBufHidden(nr)$/;"	f
+Creator._nextBufferName	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._nextBufferName()$/;"	f
+Creator._nextBufferNumber	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._nextBufferNumber()$/;"	f
+Creator._pathForString	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._pathForString(str)$/;"	f
+Creator._removeTreeBufForTab	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._removeTreeBufForTab()$/;"	f
+Creator._setCommonBufOptions	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._setCommonBufOptions()$/;"	f
+Creator._setupStatusline	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._setupStatusline()$/;"	f
+Creator._tabpagevar	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._tabpagevar(tabnr, var)$/;"	f
+Creator._uniq	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator._uniq(list)$/;"	f
+Creator.createMirror	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.createMirror()$/;"	f
+Creator.createTabTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.createTabTree(name)$/;"	f
+Creator.createWindowTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.createWindowTree(dir)$/;"	f
+Creator.toggleTabTree	plugged/nerdtree/lib/nerdtree/creator.vim	/^function! s:Creator.toggleTabTree(dir)$/;"	f
+Event.New	plugged/nerdtree/lib/nerdtree/event.vim	/^function! s:Event.New(nerdtree, subject, action, params) abort$/;"	f
+FindParentVCSRoot	plugged/nerdtree/nerdtree_plugin/vcs.vim	/^function! s:FindParentVCSRoot(path)$/;"	f
+FlagSet.New	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet.New()$/;"	f
+FlagSet._flagsForScope	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet._flagsForScope(scope)$/;"	f
+FlagSet.addFlag	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet.addFlag(scope, flag)$/;"	f
+FlagSet.clearFlags	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet.clearFlags(scope)$/;"	f
+FlagSet.removeFlag	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet.removeFlag(scope, flag)$/;"	f
+FlagSet.renderToString	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^function! s:FlagSet.renderToString()$/;"	f
+HiLink	syntax/matlab.vim	/^      command -nargs=+ HiLink hi def link <args>$/;"	c
+HiLink	syntax/matlab.vim	/^      command -nargs=+ HiLink hi link <args>$/;"	c
+KeyMap.Add	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.Add(keymap)$/;"	f
+KeyMap.All	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.All()$/;"	f
+KeyMap.BindAll	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.BindAll()$/;"	f
+KeyMap.Compare	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.Compare(keyMap1, keyMap2)$/;"	f
+KeyMap.Create	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.Create(options)$/;"	f
+KeyMap.FindFor	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.FindFor(key, scope)$/;"	f
+KeyMap.Invoke	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.Invoke(key)$/;"	f
+KeyMap.Remove	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.Remove(key, scope)$/;"	f
+KeyMap.bind	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.bind()$/;"	f
+KeyMap.invoke	plugged/nerdtree/lib/nerdtree/key_map.vim	/^function! s:KeyMap.invoke(...)$/;"	f
+MenuController.New	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController.New(menuItems)$/;"	f
+MenuController._allIndexesFor	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._allIndexesFor(shortcut)$/;"	f
+MenuController._current	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._current()$/;"	f
+MenuController._cursorDown	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._cursorDown()$/;"	f
+MenuController._cursorUp	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._cursorUp()$/;"	f
+MenuController._echoPrompt	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._echoPrompt()$/;"	f
+MenuController._handleKeypress	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._handleKeypress(key)$/;"	f
+MenuController._nextIndexFor	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._nextIndexFor(shortcut)$/;"	f
+MenuController._restoreOptions	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._restoreOptions()$/;"	f
+MenuController._saveOptions	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._saveOptions()$/;"	f
+MenuController._setCmdheight	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController._setCmdheight()$/;"	f
+MenuController.isMinimal	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController.isMinimal()$/;"	f
+MenuController.showMenu	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^function! s:MenuController.showMenu()$/;"	f
+MenuItem.All	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.All()$/;"	f
+MenuItem.AllEnabled	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.AllEnabled()$/;"	f
+MenuItem.Create	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.Create(options)$/;"	f
+MenuItem.CreateSeparator	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.CreateSeparator(options)$/;"	f
+MenuItem.CreateSubmenu	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.CreateSubmenu(options)$/;"	f
+MenuItem.enabled	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.enabled()$/;"	f
+MenuItem.execute	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.execute()$/;"	f
+MenuItem.isSeparator	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.isSeparator()$/;"	f
+MenuItem.isSubmenu	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^function! s:MenuItem.isSubmenu()$/;"	f
+NERDTree	plugged/nerdtree/plugin/NERD_tree.vim	/^augroup NERDTree$/;"	a
+NERDTree.AddPathFilter	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.AddPathFilter(callback)$/;"	f
+NERDTree.Close	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.Close()$/;"	f
+NERDTree.CursorToBookmarkTable	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.CursorToBookmarkTable()$/;"	f
+NERDTree.CursorToTreeWin	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.CursorToTreeWin(...)$/;"	f
+NERDTree.ExistsForBuf	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.ExistsForBuf()$/;"	f
+NERDTree.ExistsForTab	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.ExistsForTab()$/;"	f
+NERDTree.ForCurrentBuf	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.ForCurrentBuf()$/;"	f
+NERDTree.ForCurrentTab	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.ForCurrentTab()$/;"	f
+NERDTree.GetWinNum	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.GetWinNum()$/;"	f
+NERDTree.IsOpen	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.IsOpen()$/;"	f
+NERDTree.MustBeOpen	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.MustBeOpen()$/;"	f
+NERDTree.New	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.New(path, type)$/;"	f
+NERDTree.PathFilters	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.PathFilters()$/;"	f
+NERDTree.changeRoot	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.changeRoot(node)$/;"	f
+NERDTree.getRoot	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.getRoot()$/;"	f
+NERDTree.isTabTree	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.isTabTree()$/;"	f
+NERDTree.isWinTree	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.isWinTree()$/;"	f
+NERDTree.previousBuf	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.previousBuf()$/;"	f
+NERDTree.render	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.render()$/;"	f
+NERDTree.setPreviousBuf	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^function! s:NERDTree.setPreviousBuf(bnum)$/;"	f
+NERDTreeAddKeyMap	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddKeyMap(options)$/;"	f
+NERDTreeAddMenuItem	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddMenuItem(options)$/;"	f
+NERDTreeAddMenuSeparator	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddMenuSeparator(...)$/;"	f
+NERDTreeAddNode	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeAddNode()$/;"	f
+NERDTreeAddPathFilter	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddPathFilter(callback)$/;"	f
+NERDTreeAddSubmenu	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeAddSubmenu(options)$/;"	f
+NERDTreeCWD	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeCWD()$/;"	f
+NERDTreeChDirOnTabSwitch	plugged/nerdtree/plugin/NERD_tree.vim	/^    augroup NERDTreeChDirOnTabSwitch$/;"	a
+NERDTreeCopyNode	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeCopyNode()$/;"	f
+NERDTreeCopyPath	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeCopyPath()$/;"	f
+NERDTreeDeleteNode	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeDeleteNode()$/;"	f
+NERDTreeExecFile	plugged/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^function! NERDTreeExecFile()$/;"	f
+NERDTreeExecFileActive	plugged/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^function! NERDTreeExecFileActive()$/;"	f
+NERDTreeExecuteFile	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeExecuteFile()$/;"	f
+NERDTreeExecuteFileLinux	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeExecuteFileLinux()$/;"	f
+NERDTreeExecuteFileWindows	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeExecuteFileWindows()$/;"	f
+NERDTreeFocus	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeFocus()$/;"	f
+NERDTreeHijackNetrw	plugged/nerdtree/plugin/NERD_tree.vim	/^    augroup NERDTreeHijackNetrw$/;"	a
+NERDTreeListNode	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeListNode()$/;"	f
+NERDTreeListNodeWin32	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeListNodeWin32()$/;"	f
+NERDTreeMoveNode	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeMoveNode()$/;"	f
+NERDTreeQuickLook	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeQuickLook()$/;"	f
+NERDTreeRender	plugged/nerdtree/plugin/NERD_tree.vim	/^function! NERDTreeRender()$/;"	f
+NERDTreeRevealFileLinux	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeRevealFileLinux()$/;"	f
+NERDTreeRevealInFinder	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeRevealInFinder()$/;"	f
+NERDTreeSystemCommand	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! NERDTreeSystemCommand()$/;"	f
+NERDTreeToggleVCS	plugged/nerdtree/nerdtree_plugin/vcs.vim	/^command! -n=? -complete=dir -bar NERDTreeToggleVCS :call <SID>ToggleTabTreeVCS('<args>')$/;"	c
+NERDTreeVCS	plugged/nerdtree/nerdtree_plugin/vcs.vim	/^command! -n=? -complete=dir -bar NERDTreeVCS :call <SID>CreateTabTreeVCS('<args>')$/;"	c
+Notifier.AddListener	plugged/nerdtree/lib/nerdtree/notifier.vim	/^function! s:Notifier.AddListener(event, funcname)$/;"	f
+Notifier.GetListenersForEvent	plugged/nerdtree/lib/nerdtree/notifier.vim	/^function! s:Notifier.GetListenersForEvent(name)$/;"	f
+Notifier.GetListenersMap	plugged/nerdtree/lib/nerdtree/notifier.vim	/^function! s:Notifier.GetListenersMap()$/;"	f
+Notifier.NotifyListeners	plugged/nerdtree/lib/nerdtree/notifier.vim	/^function! s:Notifier.NotifyListeners(event, path, nerdtree, params)$/;"	f
+Opener.New	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener.New(path, opts)$/;"	f
+Opener._bufInWindows	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._bufInWindows(bnum)$/;"	f
+Opener._checkToCloseTree	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._checkToCloseTree(newtab)$/;"	f
+Opener._firstUsableWindow	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._firstUsableWindow()$/;"	f
+Opener._gotoTargetWin	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._gotoTargetWin()$/;"	f
+Opener._isWindowUsable	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._isWindowUsable(winnumber)$/;"	f
+Opener._newSplit	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._newSplit()$/;"	f
+Opener._newVSplit	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._newVSplit()$/;"	f
+Opener._openDirectory	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._openDirectory(node)$/;"	f
+Opener._openFile	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._openFile()$/;"	f
+Opener._previousWindow	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._previousWindow()$/;"	f
+Opener._restoreCursorPos	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._restoreCursorPos()$/;"	f
+Opener._reuseWindow	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._reuseWindow()$/;"	f
+Opener._saveCursorPos	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener._saveCursorPos()$/;"	f
+Opener.open	plugged/nerdtree/lib/nerdtree/opener.vim	/^function! s:Opener.open(target)$/;"	f
+Path.AbsolutePathFor	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.AbsolutePathFor(pathStr)$/;"	f
+Path.CopyingSupported	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.CopyingSupported()$/;"	f
+Path.Create	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.Create(fullpath)$/;"	f
+Path.JoinPathStrings	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.JoinPathStrings(...)$/;"	f
+Path.New	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.New(pathStr)$/;"	f
+Path.Resolve	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.Resolve(path)$/;"	f
+Path.WinToUnixPath	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.WinToUnixPath(pathstr)$/;"	f
+Path._escChars	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._escChars()$/;"	f
+Path._ignorePatternMatches	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._ignorePatternMatches(pattern)$/;"	f
+Path._splitChunks	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._splitChunks(path)$/;"	f
+Path._str	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._str()$/;"	f
+Path._strForCd	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._strForCd()$/;"	f
+Path._strForEdit	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._strForEdit()$/;"	f
+Path._strForGlob	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._strForGlob()$/;"	f
+Path._strForUI	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path._strForUI()$/;"	f
+Path.addDelimiter	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.addDelimiter(line)$/;"	f
+Path.bookmarkNames	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.bookmarkNames()$/;"	f
+Path.cacheDisplayString	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.cacheDisplayString() abort$/;"	f
+Path.changeToDir	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.changeToDir()$/;"	f
+Path.copy	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.copy(dest)$/;"	f
+Path.copyingWillOverwrite	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.copyingWillOverwrite(dest)$/;"	f
+Path.createParentDirectories	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.createParentDirectories(path)$/;"	f
+Path.delete	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.delete()$/;"	f
+Path.displayString	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.displayString()$/;"	f
+Path.edit	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.edit()$/;"	f
+Path.equals	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.equals(path)$/;"	f
+Path.exists	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.exists()$/;"	f
+Path.extractDriveLetter	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.extractDriveLetter(fullpath)$/;"	f
+Path.getDir	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.getDir()$/;"	f
+Path.getLastPathComponent	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.getLastPathComponent(dirSlash)$/;"	f
+Path.getParent	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.getParent()$/;"	f
+Path.getSortKey	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.getSortKey()$/;"	f
+Path.getSortOrderIndex	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.getSortOrderIndex()$/;"	f
+Path.ignore	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.ignore(nerdtree)$/;"	f
+Path.isAncestor	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.isAncestor(child)$/;"	f
+Path.isHiddenUnder	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.isHiddenUnder(path)$/;"	f
+Path.isUnder	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.isUnder(parent)$/;"	f
+Path.isUnixHiddenFile	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.isUnixHiddenFile()$/;"	f
+Path.isUnixHiddenPath	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.isUnixHiddenPath()$/;"	f
+Path.readInfoFromDisk	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.readInfoFromDisk(fullpath)$/;"	f
+Path.refresh	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.refresh(nerdtree)$/;"	f
+Path.refreshFlags	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.refreshFlags(nerdtree)$/;"	f
+Path.rename	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.rename(newPath)$/;"	f
+Path.str	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.str(...)$/;"	f
+Path.strTrunk	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.strTrunk()$/;"	f
+Path.tabnr	plugged/nerdtree/lib/nerdtree/path.vim	/^function! s:Path.tabnr()$/;"	f
+SID	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:SID() abort$/;"	f
+ToggleTabTreeVCS	plugged/nerdtree/nerdtree_plugin/vcs.vim	/^function! s:ToggleTabTreeVCS(name)$/;"	f
+TreeDirNode.AbsoluteTreeRoot	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.AbsoluteTreeRoot()$/;"	f
+TreeDirNode.GetSelected	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.GetSelected()$/;"	f
+TreeDirNode.New	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.New(path, nerdtree)$/;"	f
+TreeDirNode._glob	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode._glob(pattern, all)$/;"	f
+TreeDirNode._initChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode._initChildren(silent)$/;"	f
+TreeDirNode._openInNewTab	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode._openInNewTab()$/;"	f
+TreeDirNode.activate	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.activate(...)$/;"	f
+TreeDirNode.addChild	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.addChild(treenode, inOrder)$/;"	f
+TreeDirNode.close	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.close()$/;"	f
+TreeDirNode.closeChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.closeChildren()$/;"	f
+TreeDirNode.createChild	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.createChild(path, inOrder)$/;"	f
+TreeDirNode.displayString	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.displayString()$/;"	f
+TreeDirNode.findNode	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.findNode(path)$/;"	f
+TreeDirNode.getCascade	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getCascade()$/;"	f
+TreeDirNode.getCascadeRoot	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getCascadeRoot()$/;"	f
+TreeDirNode.getChild	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getChild(path)$/;"	f
+TreeDirNode.getChildByIndex	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getChildByIndex(indx, visible)$/;"	f
+TreeDirNode.getChildCount	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getChildCount()$/;"	f
+TreeDirNode.getChildIndex	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getChildIndex(path)$/;"	f
+TreeDirNode.getDirChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getDirChildren()$/;"	f
+TreeDirNode.getVisibleChildCount	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getVisibleChildCount()$/;"	f
+TreeDirNode.getVisibleChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.getVisibleChildren()$/;"	f
+TreeDirNode.hasVisibleChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.hasVisibleChildren()$/;"	f
+TreeDirNode.isCascadable	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.isCascadable()$/;"	f
+TreeDirNode.open	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.open(...)$/;"	f
+TreeDirNode.openAlong	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.openAlong(...)$/;"	f
+TreeDirNode.openExplorer	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.openExplorer()$/;"	f
+TreeDirNode.openInNewTab	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.openInNewTab(options)$/;"	f
+TreeDirNode.openRecursively	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.openRecursively()$/;"	f
+TreeDirNode.refresh	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.refresh()$/;"	f
+TreeDirNode.refreshDirFlags	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.refreshDirFlags()$/;"	f
+TreeDirNode.refreshFlags	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.refreshFlags()$/;"	f
+TreeDirNode.removeChild	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.removeChild(treenode)$/;"	f
+TreeDirNode.reveal	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.reveal(path, ...)$/;"	f
+TreeDirNode.sortChildren	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.sortChildren()$/;"	f
+TreeDirNode.toggleOpen	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.toggleOpen(...)$/;"	f
+TreeDirNode.transplantChild	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^function! s:TreeDirNode.transplantChild(newNode)$/;"	f
+TreeFileNode.GetRootForTab	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.GetRootForTab()$/;"	f
+TreeFileNode.GetSelected	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.GetSelected()$/;"	f
+TreeFileNode.New	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.New(path, nerdtree)$/;"	f
+TreeFileNode._renderToString	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode._renderToString(depth, drawText)$/;"	f
+TreeFileNode.activate	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.activate(...)$/;"	f
+TreeFileNode.bookmark	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.bookmark(name)$/;"	f
+TreeFileNode.cacheParent	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.cacheParent()$/;"	f
+TreeFileNode.clearBookmarks	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.clearBookmarks()$/;"	f
+TreeFileNode.copy	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.copy(dest)$/;"	f
+TreeFileNode.delete	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.delete()$/;"	f
+TreeFileNode.displayString	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.displayString()$/;"	f
+TreeFileNode.equals	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.equals(treenode)$/;"	f
+TreeFileNode.findNode	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.findNode(path)$/;"	f
+TreeFileNode.findSibling	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.findSibling(direction)$/;"	f
+TreeFileNode.getNerdtree	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.getNerdtree()$/;"	f
+TreeFileNode.isRoot	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.isRoot()$/;"	f
+TreeFileNode.isVisible	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.isVisible()$/;"	f
+TreeFileNode.open	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.open(...)$/;"	f
+TreeFileNode.openExplorer	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.openExplorer()$/;"	f
+TreeFileNode.openInNewTab	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.openInNewTab(options)$/;"	f
+TreeFileNode.openSplit	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.openSplit()$/;"	f
+TreeFileNode.openVSplit	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.openVSplit()$/;"	f
+TreeFileNode.putCursorHere	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.putCursorHere(isJump, recurseUpward)$/;"	f
+TreeFileNode.refresh	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.refresh()$/;"	f
+TreeFileNode.refreshFlags	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.refreshFlags()$/;"	f
+TreeFileNode.rename	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.rename(newName)$/;"	f
+TreeFileNode.renderToString	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^function! s:TreeFileNode.renderToString()$/;"	f
+UI.IndentWid	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.IndentWid()$/;"	f
+UI.MarkupReg	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.MarkupReg()$/;"	f
+UI.New	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.New(nerdtree)$/;"	f
+UI.UpDirLine	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.UpDirLine()$/;"	f
+UI._dumpHelp	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI._dumpHelp()$/;"	f
+UI._indentLevelFor	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI._indentLevelFor(line)$/;"	f
+UI._renderBookmarks	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI._renderBookmarks()$/;"	f
+UI._stripMarkup	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI._stripMarkup(line)$/;"	f
+UI.centerView	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.centerView()$/;"	f
+UI.getLineNum	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getLineNum(node)$/;"	f
+UI.getPath	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getPath(ln)$/;"	f
+UI.getRootLineNum	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getRootLineNum()$/;"	f
+UI.getShowBookmarks	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getShowBookmarks()$/;"	f
+UI.getShowFiles	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getShowFiles()$/;"	f
+UI.getShowHelp	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getShowHelp()$/;"	f
+UI.getShowHidden	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.getShowHidden()$/;"	f
+UI.isIgnoreFilterEnabled	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.isIgnoreFilterEnabled()$/;"	f
+UI.isMinimal	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.isMinimal()$/;"	f
+UI.render	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.render()$/;"	f
+UI.renderViewSavingPosition	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.renderViewSavingPosition()$/;"	f
+UI.restoreScreenState	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.restoreScreenState()$/;"	f
+UI.saveScreenState	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.saveScreenState()$/;"	f
+UI.setShowHidden	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.setShowHidden(val)$/;"	f
+UI.toggleHelp	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleHelp()$/;"	f
+UI.toggleIgnoreFilter	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleIgnoreFilter()$/;"	f
+UI.toggleShowBookmarks	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleShowBookmarks()$/;"	f
+UI.toggleShowFiles	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleShowFiles()$/;"	f
+UI.toggleShowHidden	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleShowHidden()$/;"	f
+UI.toggleZoom	plugged/nerdtree/lib/nerdtree/ui.vim	/^function! s:UI.toggleZoom()$/;"	f
+activateAll	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:activateAll() abort$/;"	f
+activateBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:activateBookmark(bm) abort$/;"	f
+activateDirNode	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:activateDirNode(directoryNode, ...) abort$/;"	f
+activateFileNode	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:activateFileNode(node) abort$/;"	f
+append_ul	autoload/plug.vim	/^function! s:append_ul(lnum, text)$/;"	f
+ask	autoload/plug.vim	/^function! s:ask(message, ...)$/;"	f
+ask_no_interrupt	autoload/plug.vim	/^function! s:ask_no_interrupt(...)$/;"	f
+assign_name	autoload/plug.vim	/^function! s:assign_name()$/;"	f
+assoc	autoload/plug.vim	/^function! s:assoc(dict, key, val)$/;"	f
+b:current_syntax	syntax/matlab.vim	/^let b:current_syntax = "matlab"$/;"	v
+bang	autoload/plug.vim	/^function! s:bang(cmd, ...)$/;"	f
+bar	autoload/plug.vim	/^function! s:bar()$/;"	f
+batchfile	autoload/plug.vim	/^  function! s:batchfile(cmd)$/;"	f
+chCwd	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:chCwd(node) abort$/;"	f
+chRoot	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:chRoot(node) abort$/;"	f
+check_ruby	autoload/plug.vim	/^function! s:check_ruby()$/;"	f
+checkout	autoload/plug.vim	/^function! s:checkout(spec)$/;"	f
+chsh	autoload/plug.vim	/^function! s:chsh(swap)$/;"	f
+clean	autoload/plug.vim	/^function! s:clean(force)$/;"	f
+closeChildren	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:closeChildren(node) abort$/;"	f
+closeCurrentDir	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:closeCurrentDir(node) abort$/;"	f
+closeTreeWindow	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:closeTreeWindow() abort$/;"	f
+close_pane	autoload/plug.vim	/^function! s:close_pane()$/;"	f
+colors_name	colors/matlabdark.vim	/^let colors_name = "matlabdark"$/;"	v
+colors_name	colors/matlablight.vim	/^let colors_name = "matlablight"$/;"	v
+compare_git_uri	autoload/plug.vim	/^function! s:compare_git_uri(a, b)$/;"	f
+customOpenBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:customOpenBookmark(node) abort$/;"	f
+customOpenDir	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:customOpenDir(node) abort$/;"	f
+customOpenFile	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:customOpenFile(node) abort$/;"	f
+define_commands	autoload/plug.vim	/^function! s:define_commands()$/;"	f
+delete	autoload/plug.vim	/^function! s:delete(range, force)$/;"	f
+deleteBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:deleteBookmark(bookmark) abort$/;"	f
+delete_op	autoload/plug.vim	/^function! s:delete_op(type, ...)$/;"	f
+did_matlab_syntax_inits	syntax/matlab.vim	/^      let did_matlab_syntax_inits = 1$/;"	v
+diff	autoload/plug.vim	/^function! s:diff()$/;"	f
+dirpath	autoload/plug.vim	/^  function! s:dirpath(path)$/;"	f
+displayHelp	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:displayHelp() abort$/;"	f
+do	autoload/plug.vim	/^function! s:do(pull, force, todo)$/;"	f
+doautocmd	autoload/plug.vim	/^function! s:doautocmd(...)$/;"	f
+dobufread	autoload/plug.vim	/^function! s:dobufread(names)$/;"	f
+err	autoload/plug.vim	/^function! s:err(msg)$/;"	f
+esc	autoload/plug.vim	/^function! s:esc(path)$/;"	f
+escrtp	autoload/plug.vim	/^function! s:escrtp(path)$/;"	f
+extract_name	autoload/plug.vim	/^function! s:extract_name(str, prefix, suffix)$/;"	f
+findAndRevealPath	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:findAndRevealPath(pathStr) abort$/;"	f
+find_name	autoload/plug.vim	/^function! s:find_name(lnum)$/;"	f
+finish	autoload/plug.vim	/^function! s:finish(pull)$/;"	f
+finish_bindings	autoload/plug.vim	/^function! s:finish_bindings()$/;"	f
+format_git_log	autoload/plug.vim	/^function! s:format_git_log(line)$/;"	f
+format_message	autoload/plug.vim	/^function! s:format_message(bullet, name, message)$/;"	f
+g:NERDTree	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^let g:NERDTree = s:NERDTree$/;"	v
+g:NERDTreeAutoCenter	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeAutoCenter            = get(g:, 'NERDTreeAutoCenter',            1)$/;"	v
+g:NERDTreeAutoCenterThreshold	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeAutoCenterThreshold   = get(g:, 'NERDTreeAutoCenterThreshold',   3)$/;"	v
+g:NERDTreeAutoDeleteBuffer	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^    let g:NERDTreeAutoDeleteBuffer = 0$/;"	v
+g:NERDTreeBookmark	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^let g:NERDTreeBookmark = s:Bookmark$/;"	v
+g:NERDTreeBookmarksFile	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeBookmarksFile         = get(g:, 'NERDTreeBookmarksFile',         expand('$HOME') . '\/.NERDTreeBookmarks')$/;"	v
+g:NERDTreeBookmarksSort	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeBookmarksSort         = get(g:, 'NERDTreeBookmarksSort',         1)$/;"	v
+g:NERDTreeCascadeOpenSingleChildDir	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeCascadeOpenSingleChildDir = get(g:, 'NERDTreeCascadeOpenSingleChildDir', 1)$/;"	v
+g:NERDTreeCascadeSingleChildDir	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeCascadeSingleChildDir     = get(g:, 'NERDTreeCascadeSingleChildDir',     1)$/;"	v
+g:NERDTreeCaseSensitiveSort	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeCaseSensitiveSort     = get(g:, 'NERDTreeCaseSensitiveSort',     0)$/;"	v
+g:NERDTreeChDirMode	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeChDirMode             = get(g:, 'NERDTreeChDirMode',             0)$/;"	v
+g:NERDTreeCopyCmd	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeCopyCmd      = get(g:, 'NERDTreeCopyCmd',      'cp -r ')$/;"	v
+g:NERDTreeCopyDirCmd	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeCopyDirCmd   = get(g:, 'NERDTreeCopyDirCmd',   'xcopy \/s \/e \/i \/y \/q ')$/;"	v
+g:NERDTreeCopyFileCmd	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeCopyFileCmd  = get(g:, 'NERDTreeCopyFileCmd',  'copy \/y ')$/;"	v
+g:NERDTreeCreatePrefix	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeCreatePrefix          = get(g:, 'NERDTreeCreatePrefix',          'silent')$/;"	v
+g:NERDTreeCreator	plugged/nerdtree/lib/nerdtree/creator.vim	/^let g:NERDTreeCreator = s:Creator$/;"	v
+g:NERDTreeDirArrowCollapsible	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeDirArrowCollapsible = get(g:, 'NERDTreeDirArrowCollapsible', '~')$/;"	v
+g:NERDTreeDirArrowCollapsible	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeDirArrowCollapsible = get(g:, 'NERDTreeDirArrowCollapsible', '▾')$/;"	v
+g:NERDTreeDirArrowExpandable	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeDirArrowExpandable  = get(g:, 'NERDTreeDirArrowExpandable',  '+')$/;"	v
+g:NERDTreeDirArrowExpandable	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeDirArrowExpandable  = get(g:, 'NERDTreeDirArrowExpandable',  '▸')$/;"	v
+g:NERDTreeDirNode	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^let g:NERDTreeDirNode = s:TreeDirNode$/;"	v
+g:NERDTreeEvent	plugged/nerdtree/lib/nerdtree/event.vim	/^let g:NERDTreeEvent = s:Event$/;"	v
+g:NERDTreeFileNode	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^let g:NERDTreeFileNode = s:TreeFileNode$/;"	v
+g:NERDTreeFlagSet	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^let g:NERDTreeFlagSet = s:FlagSet$/;"	v
+g:NERDTreeGlyphReadOnly	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeGlyphReadOnly = get(g:, 'NERDTreeGlyphReadOnly', 'RO')$/;"	v
+g:NERDTreeHighlightCursorline	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeHighlightCursorline   = get(g:, 'NERDTreeHighlightCursorline',   1)$/;"	v
+g:NERDTreeHijackNetrw	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeHijackNetrw           = get(g:, 'NERDTreeHijackNetrw',           1)$/;"	v
+g:NERDTreeIgnore	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeIgnore                = get(g:, 'NERDTreeIgnore',                ['\\~$'])$/;"	v
+g:NERDTreeKeyMap	plugged/nerdtree/lib/nerdtree/key_map.vim	/^let g:NERDTreeKeyMap = s:KeyMap$/;"	v
+g:NERDTreeMapActivateNode	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapActivateNode    = get(g:, 'NERDTreeMapActivateNode',    'o')$/;"	v
+g:NERDTreeMapCWD	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapCWD             = get(g:, 'NERDTreeMapCWD',             'CD')$/;"	v
+g:NERDTreeMapChangeRoot	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapChangeRoot      = get(g:, 'NERDTreeMapChangeRoot',      'C')$/;"	v
+g:NERDTreeMapChdir	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapChdir           = get(g:, 'NERDTreeMapChdir',           'cd')$/;"	v
+g:NERDTreeMapCloseChildren	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapCloseChildren   = get(g:, 'NERDTreeMapCloseChildren',   'X')$/;"	v
+g:NERDTreeMapCloseDir	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapCloseDir        = get(g:, 'NERDTreeMapCloseDir',        'x')$/;"	v
+g:NERDTreeMapCustomOpen	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapCustomOpen      = get(g:, 'NERDTreeMapCustomOpen',      '<CR>')$/;"	v
+g:NERDTreeMapDeleteBookmark	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapDeleteBookmark  = get(g:, 'NERDTreeMapDeleteBookmark',  'D')$/;"	v
+g:NERDTreeMapHelp	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapHelp            = get(g:, 'NERDTreeMapHelp',            '?')$/;"	v
+g:NERDTreeMapJumpFirstChild	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpFirstChild  = get(g:, 'NERDTreeMapJumpFirstChild',  'K')$/;"	v
+g:NERDTreeMapJumpLastChild	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpLastChild   = get(g:, 'NERDTreeMapJumpLastChild',   'J')$/;"	v
+g:NERDTreeMapJumpNextSibling	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpNextSibling = get(g:, 'NERDTreeMapJumpNextSibling', '<C-j>')$/;"	v
+g:NERDTreeMapJumpParent	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpParent      = get(g:, 'NERDTreeMapJumpParent',      'p')$/;"	v
+g:NERDTreeMapJumpPrevSibling	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpPrevSibling = get(g:, 'NERDTreeMapJumpPrevSibling', '<C-k>')$/;"	v
+g:NERDTreeMapJumpRoot	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapJumpRoot        = get(g:, 'NERDTreeMapJumpRoot',        'P')$/;"	v
+g:NERDTreeMapMenu	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapMenu            = get(g:, 'NERDTreeMapMenu',            'm')$/;"	v
+g:NERDTreeMapOpenExpl	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenExpl        = get(g:, 'NERDTreeMapOpenExpl',        'e')$/;"	v
+g:NERDTreeMapOpenInTab	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenInTab       = get(g:, 'NERDTreeMapOpenInTab',       't')$/;"	v
+g:NERDTreeMapOpenInTabSilent	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenInTabSilent = get(g:, 'NERDTreeMapOpenInTabSilent', 'T')$/;"	v
+g:NERDTreeMapOpenRecursively	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenRecursively = get(g:, 'NERDTreeMapOpenRecursively', 'O')$/;"	v
+g:NERDTreeMapOpenSplit	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenSplit       = get(g:, 'NERDTreeMapOpenSplit',       'i')$/;"	v
+g:NERDTreeMapOpenVSplit	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapOpenVSplit      = get(g:, 'NERDTreeMapOpenVSplit',      's')$/;"	v
+g:NERDTreeMapPreview	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapPreview         = get(g:, 'NERDTreeMapPreview',         'g'.NERDTreeMapActivateNode)$/;"	v
+g:NERDTreeMapPreviewSplit	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapPreviewSplit    = get(g:, 'NERDTreeMapPreviewSplit',    'g'.NERDTreeMapOpenSplit)$/;"	v
+g:NERDTreeMapPreviewVSplit	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapPreviewVSplit   = get(g:, 'NERDTreeMapPreviewVSplit',   'g'.NERDTreeMapOpenVSplit)$/;"	v
+g:NERDTreeMapQuit	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapQuit            = get(g:, 'NERDTreeMapQuit',            'q')$/;"	v
+g:NERDTreeMapRefresh	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapRefresh         = get(g:, 'NERDTreeMapRefresh',         'r')$/;"	v
+g:NERDTreeMapRefreshRoot	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapRefreshRoot     = get(g:, 'NERDTreeMapRefreshRoot',     'R')$/;"	v
+g:NERDTreeMapToggleBookmarks	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapToggleBookmarks = get(g:, 'NERDTreeMapToggleBookmarks', 'B')$/;"	v
+g:NERDTreeMapToggleFiles	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapToggleFiles     = get(g:, 'NERDTreeMapToggleFiles',     'F')$/;"	v
+g:NERDTreeMapToggleFilters	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapToggleFilters   = get(g:, 'NERDTreeMapToggleFilters',   'f')$/;"	v
+g:NERDTreeMapToggleHidden	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapToggleHidden    = get(g:, 'NERDTreeMapToggleHidden',    'I')$/;"	v
+g:NERDTreeMapToggleZoom	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapToggleZoom      = get(g:, 'NERDTreeMapToggleZoom',      'A')$/;"	v
+g:NERDTreeMapUpdir	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapUpdir           = get(g:, 'NERDTreeMapUpdir',           'u')$/;"	v
+g:NERDTreeMapUpdirKeepOpen	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMapUpdirKeepOpen   = get(g:, 'NERDTreeMapUpdirKeepOpen',   'U')$/;"	v
+g:NERDTreeMarkBookmarks	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMarkBookmarks         = get(g:, 'NERDTreeMarkBookmarks',         1)$/;"	v
+g:NERDTreeMenuController	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^let g:NERDTreeMenuController = s:MenuController$/;"	v
+g:NERDTreeMenuDown	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMenuDown           = get(g:, 'NERDTreeMenuDown',           'j')$/;"	v
+g:NERDTreeMenuItem	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^let g:NERDTreeMenuItem = s:MenuItem$/;"	v
+g:NERDTreeMenuUp	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMenuUp             = get(g:, 'NERDTreeMenuUp',             'k')$/;"	v
+g:NERDTreeMinimalMenu	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMinimalMenu           = get(g:, 'NERDTreeMinimalMenu',           0)$/;"	v
+g:NERDTreeMinimalUI	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMinimalUI             = get(g:, 'NERDTreeMinimalUI',             0)$/;"	v
+g:NERDTreeMouseMode	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeMouseMode             = get(g:, 'NERDTreeMouseMode',             1)$/;"	v
+g:NERDTreeNaturalSort	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeNaturalSort           = get(g:, 'NERDTreeNaturalSort',           0)$/;"	v
+g:NERDTreeNodeDelimiter	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeNodeDelimiter = get(g:, 'NERDTreeNodeDelimiter', "\\u00a0")$/;"	v
+g:NERDTreeNodeDelimiter	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeNodeDelimiter = get(g:, 'NERDTreeNodeDelimiter', "\\u00b7")$/;"	v
+g:NERDTreeNodeDelimiter	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeNodeDelimiter = get(g:, 'NERDTreeNodeDelimiter', "\\x07")$/;"	v
+g:NERDTreeNotificationThreshold	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeNotificationThreshold = get(g:, 'NERDTreeNotificationThreshold', 100)$/;"	v
+g:NERDTreeOldSortOrder	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeOldSortOrder = []$/;"	v
+g:NERDTreeOpener	plugged/nerdtree/lib/nerdtree/opener.vim	/^let g:NERDTreeOpener = s:Opener$/;"	v
+g:NERDTreePath	plugged/nerdtree/lib/nerdtree/path.vim	/^let g:NERDTreePath = s:Path$/;"	v
+g:NERDTreePathNotifier	plugged/nerdtree/lib/nerdtree/notifier.vim	/^let g:NERDTreePathNotifier = deepcopy(s:Notifier)$/;"	v
+g:NERDTreeQuitOnOpen	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeQuitOnOpen            = get(g:, 'NERDTreeQuitOnOpen',            0)$/;"	v
+g:NERDTreeRemoveDirCmd	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeRemoveDirCmd = get(g:, 'NERDTreeRemoveDirCmd', 'rm -rf ')$/;"	v
+g:NERDTreeRemoveDirCmd	plugged/nerdtree/plugin/NERD_tree.vim	/^    let g:NERDTreeRemoveDirCmd = get(g:, 'NERDTreeRemoveDirCmd', 'rmdir \/s \/q ')$/;"	v
+g:NERDTreeRespectWildIgnore	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeRespectWildIgnore     = get(g:, 'NERDTreeRespectWildIgnore',     0)$/;"	v
+g:NERDTreeShowBookmarks	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeShowBookmarks         = get(g:, 'NERDTreeShowBookmarks',         0)$/;"	v
+g:NERDTreeShowFiles	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeShowFiles             = get(g:, 'NERDTreeShowFiles',             1)$/;"	v
+g:NERDTreeShowHidden	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeShowHidden            = get(g:, 'NERDTreeShowHidden',            0)$/;"	v
+g:NERDTreeShowLineNumbers	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeShowLineNumbers       = get(g:, 'NERDTreeShowLineNumbers',       0)$/;"	v
+g:NERDTreeSortDirs	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeSortDirs              = get(g:, 'NERDTreeSortDirs',              1)$/;"	v
+g:NERDTreeSortHiddenFirst	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeSortHiddenFirst       = get(g:, 'NERDTreeSortHiddenFirst',       1)$/;"	v
+g:NERDTreeSortOrder	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeSortOrder    = get(g:, 'NERDTreeSortOrder', ['\\\/$', '*', '\\.swp$', '\\.bak$', '\\~$'])$/;"	v
+g:NERDTreeStatusline	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeStatusline = get(g:, 'NERDTreeStatusline', "%{exists('b:NERDTree')?b:NERDTree.root.path.str():''}")$/;"	v
+g:NERDTreeUI	plugged/nerdtree/lib/nerdtree/ui.vim	/^let g:NERDTreeUI = s:UI$/;"	v
+g:NERDTreeUseTCD	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeUseTCD                = get(g:, 'NERDTreeUseTCD',                0)$/;"	v
+g:NERDTreeWinPos	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeWinPos  = get(g:, 'NERDTreeWinPos', 'left')$/;"	v
+g:NERDTreeWinSize	plugged/nerdtree/plugin/NERD_tree.vim	/^let g:NERDTreeWinSize = get(g:, 'NERDTreeWinSize', 31)$/;"	v
+g:colors_name	colors/molokai.vim	/^let g:colors_name="molokai"$/;"	v
+g:loaded_nerdtree_autoload	plugged/nerdtree/autoload/nerdtree.vim	/^let g:loaded_nerdtree_autoload = 1$/;"	v
+g:loaded_nerdtree_exec_menuitem	plugged/nerdtree/nerdtree_plugin/exec_menuitem.vim	/^let g:loaded_nerdtree_exec_menuitem = 1$/;"	v
+g:loaded_nerdtree_fs_menu	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^let g:loaded_nerdtree_fs_menu = 1$/;"	v
+g:loaded_nerdtree_ui_glue_autoload	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^let g:loaded_nerdtree_ui_glue_autoload = 1$/;"	v
+g:loaded_plug	autoload/plug.vim	/^let g:loaded_plug = 1$/;"	v
+g:plugs_order	autoload/plug.vim	/^  let g:plugs_order = get(g:, 'plugs_order', keys(g:plugs))$/;"	v
+git_dir	autoload/plug.vim	/^function! s:git_dir(dir) abort$/;"	f
+git_local_branch	autoload/plug.vim	/^function! s:git_local_branch(dir) abort$/;"	f
+git_origin_branch	autoload/plug.vim	/^function! s:git_origin_branch(spec)$/;"	f
+git_origin_url	autoload/plug.vim	/^function! s:git_origin_url(dir) abort$/;"	f
+git_revision	autoload/plug.vim	/^function! s:git_revision(dir) abort$/;"	f
+git_validate	autoload/plug.vim	/^function! s:git_validate(spec, check_branch)$/;"	f
+git_version_requirement	autoload/plug.vim	/^function! s:git_version_requirement(...)$/;"	f
+glob	autoload/plug.vim	/^function! s:glob(from, pattern)$/;"	f
+glob_dir	autoload/plug.vim	/^function! s:glob_dir(path)$/;"	f
+handleLeftClick	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:handleLeftClick() abort$/;"	f
+handleMiddleMouse	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:handleMiddleMouse() abort$/;"	f
+hash_match	autoload/plug.vim	/^function! s:hash_match(a, b)$/;"	f
+infer_properties	autoload/plug.vim	/^function! s:infer_properties(name, repo)$/;"	f
+initCustomOpenArgs	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:initCustomOpenArgs() abort$/;"	f
+inputPrompt	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:inputPrompt(action)$/;"	f
+install	autoload/plug.vim	/^function! s:install(force, names)$/;"	f
+is_local_plug	autoload/plug.vim	/^  function! s:is_local_plug(repo)$/;"	f
+is_managed	autoload/plug.vim	/^function! s:is_managed(name)$/;"	f
+is_powershell	autoload/plug.vim	/^function! s:is_powershell(shell)$/;"	f
+is_preview_window_open	autoload/plug.vim	/^function! s:is_preview_window_open()$/;"	f
+is_updated	autoload/plug.vim	/^function! s:is_updated(dir)$/;"	f
+isabsolute	autoload/plug.vim	/^function! s:isabsolute(dir) abort$/;"	f
+job_abort	autoload/plug.vim	/^function! s:job_abort()$/;"	f
+job_cb	autoload/plug.vim	/^function! s:job_cb(fn, job, ch, data)$/;"	f
+job_exit_cb	autoload/plug.vim	/^function! s:job_exit_cb(self, data) abort$/;"	f
+job_out_cb	autoload/plug.vim	/^function! s:job_out_cb(self, data) abort$/;"	f
+jumpToChild	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToChild(node, last) abort$/;"	f
+jumpToFirstChild	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToFirstChild(node) abort$/;"	f
+jumpToLastChild	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToLastChild(node) abort$/;"	f
+jumpToNextSibling	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToNextSibling(node) abort$/;"	f
+jumpToParent	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToParent(node) abort$/;"	f
+jumpToPrevSibling	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToPrevSibling(node) abort$/;"	f
+jumpToRoot	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToRoot() abort$/;"	f
+jumpToSibling	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:jumpToSibling(node, forward) abort$/;"	f
+last_non_empty_line	autoload/plug.vim	/^function! s:last_non_empty_line(lines)$/;"	f
+lastline	autoload/plug.vim	/^function! s:lastline(msg)$/;"	f
+lazy	autoload/plug.vim	/^function! s:lazy(plug, opt)$/;"	f
+lines	autoload/plug.vim	/^function! s:lines(msg)$/;"	f
+load_plugin	autoload/plug.vim	/^function! s:load_plugin(spec)$/;"	f
+loaded_names	autoload/plug.vim	/^function! s:loaded_names()$/;"	f
+loaded_nerd_tree	plugged/nerdtree/plugin/NERD_tree.vim	/^let loaded_nerd_tree = 1$/;"	v
+lod	autoload/plug.vim	/^function! s:lod(names, types, ...)$/;"	f
+lod_cmd	autoload/plug.vim	/^function! s:lod_cmd(cmd, bang, l1, l2, args, names)$/;"	f
+lod_ft	autoload/plug.vim	/^function! s:lod_ft(pat, names)$/;"	f
+lod_map	autoload/plug.vim	/^function! s:lod_map(map, names, with_prefix, prefix)$/;"	f
+log	autoload/plug.vim	/^function! s:log(bullet, name, lines)$/;"	f
+log4	autoload/plug.vim	/^function! s:log4(name, msg)$/;"	f
+logpos	autoload/plug.vim	/^function! s:logpos(name)$/;"	f
+lpad	autoload/plug.vim	/^function! s:lpad(str, len)$/;"	f
+names	autoload/plug.vim	/^function! s:names(...)$/;"	f
+nerdtree#checkForBrowse	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#checkForBrowse(dir) abort$/;"	f
+nerdtree#closeBookmarksOnOpen	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#closeBookmarksOnOpen() abort$/;"	f
+nerdtree#closeTreeOnOpen	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#closeTreeOnOpen() abort$/;"	f
+nerdtree#compareNodePaths	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#compareNodePaths(p1, p2) abort$/;"	f
+nerdtree#compareNodes	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#compareNodes(n1, n2) abort$/;"	f
+nerdtree#completeBookmarks	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#completeBookmarks(A,L,P) abort$/;"	f
+nerdtree#deprecated	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#deprecated(func, ...) abort$/;"	f
+nerdtree#echo	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#echo(msg) abort$/;"	f
+nerdtree#echoError	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#echoError(msg) abort$/;"	f
+nerdtree#echoWarning	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#echoWarning(msg) abort$/;"	f
+nerdtree#exec	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#exec(cmd, ignoreAll) abort$/;"	f
+nerdtree#has_opt	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#has_opt(options, name) abort$/;"	f
+nerdtree#loadClassFiles	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#loadClassFiles() abort$/;"	f
+nerdtree#postSourceActions	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#postSourceActions() abort$/;"	f
+nerdtree#renderView	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#renderView() abort$/;"	f
+nerdtree#runningCygwin	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#runningCygwin() abort$/;"	f
+nerdtree#runningWindows	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#runningWindows() abort$/;"	f
+nerdtree#slash	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#slash() abort$/;"	f
+nerdtree#ui_glue#bookmarkNode	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#bookmarkNode(...) abort$/;"	f
+nerdtree#ui_glue#chRootCwd	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#chRootCwd() abort$/;"	f
+nerdtree#ui_glue#clearBookmarks	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#clearBookmarks(bookmarks) abort$/;"	f
+nerdtree#ui_glue#createDefaultBindings	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#createDefaultBindings() abort$/;"	f
+nerdtree#ui_glue#invokeKeyMap	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#invokeKeyMap(key) abort$/;"	f
+nerdtree#ui_glue#openBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#openBookmark(name) abort$/;"	f
+nerdtree#ui_glue#revealBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#revealBookmark(name) abort$/;"	f
+nerdtree#ui_glue#setupCommands	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#setupCommands() abort$/;"	f
+nerdtree#ui_glue#upDir	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! nerdtree#ui_glue#upDir(preserveState) abort$/;"	f
+nerdtree#version	plugged/nerdtree/autoload/nerdtree.vim	/^function! nerdtree#version(...) abort$/;"	f
+new_window	autoload/plug.vim	/^function! s:new_window()$/;"	f
+nvim_cb	autoload/plug.vim	/^function! s:nvim_cb(job_id, data, event) dict abort$/;"	f
+openExplorer	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openExplorer(node) abort$/;"	f
+openHSplit	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openHSplit(target) abort$/;"	f
+openHSplitBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openHSplitBookmark(bm) abort$/;"	f
+openInNewTab	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openInNewTab(target) abort$/;"	f
+openInNewTabSilent	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openInNewTabSilent(target) abort$/;"	f
+openNodeRecursively	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openNodeRecursively(node) abort$/;"	f
+openVSplit	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openVSplit(target) abort$/;"	f
+openVSplitBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:openVSplitBookmark(bm) abort$/;"	f
+parse_options	autoload/plug.vim	/^function! s:parse_options(arg)$/;"	f
+path	autoload/plug.vim	/^  function! s:path(path)$/;"	f
+plug#	autoload/plug.vim	/^function! plug#(repo, ...)$/;"	f
+plug#begin	autoload/plug.vim	/^function! plug#begin(...)$/;"	f
+plug#end	autoload/plug.vim	/^function! plug#end()$/;"	f
+plug#helptags	autoload/plug.vim	/^function! plug#helptags()$/;"	f
+plug#load	autoload/plug.vim	/^function! plug#load(...)$/;"	f
+plug#shellescape	autoload/plug.vim	/^function! plug#shellescape(arg, ...)$/;"	f
+plug_call	autoload/plug.vim	/^  function! s:plug_call(fn, ...)$/;"	f
+plug_expand	autoload/plug.vim	/^function! s:plug_expand(fmt)$/;"	f
+plug_fnamemodify	autoload/plug.vim	/^function! s:plug_fnamemodify(fname, mods)$/;"	f
+plug_getcwd	autoload/plug.vim	/^function! s:plug_getcwd()$/;"	f
+plug_tempname	autoload/plug.vim	/^function! s:plug_tempname()$/;"	f
+plug_window_exists	autoload/plug.vim	/^function! s:plug_window_exists()$/;"	f
+prepare	autoload/plug.vim	/^function! s:prepare(...)$/;"	f
+previewBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewBookmark(bookmark) abort$/;"	f
+previewNodeCurrent	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewNodeCurrent(node) abort$/;"	f
+previewNodeHSplit	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewNodeHSplit(node) abort$/;"	f
+previewNodeHSplitBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewNodeHSplitBookmark(bookmark) abort$/;"	f
+previewNodeVSplit	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewNodeVSplit(node) abort$/;"	f
+previewNodeVSplitBookmark	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:previewNodeVSplitBookmark(bookmark) abort$/;"	f
+preview_commit	autoload/plug.vim	/^function! s:preview_commit()$/;"	f
+progress_bar	autoload/plug.vim	/^function! s:progress_bar(line, bar, total)$/;"	f
+progress_opt	autoload/plug.vim	/^function! s:progress_opt(base)$/;"	f
+promptToDelBuffer	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:promptToDelBuffer(bufnum, msg)$/;"	f
+reap	autoload/plug.vim	/^function! s:reap(name)$/;"	f
+refreshCurrent	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:refreshCurrent(node) abort$/;"	f
+refreshRoot	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:refreshRoot() abort$/;"	f
+regress_bar	autoload/plug.vim	/^function! s:regress_bar()$/;"	f
+reload_plugins	autoload/plug.vim	/^function! s:reload_plugins()$/;"	f
+remove_rtp	autoload/plug.vim	/^function! s:remove_rtp()$/;"	f
+remove_triggers	autoload/plug.vim	/^function! s:remove_triggers(name)$/;"	f
+renameBuffer	plugged/nerdtree/nerdtree_plugin/fs_menu.vim	/^function! s:renameBuffer(bufNum, newNodeName, isDirectory)$/;"	f
+reorg_rtp	autoload/plug.vim	/^function! s:reorg_rtp()$/;"	f
+retry	autoload/plug.vim	/^function! s:retry()$/;"	f
+reuseWin	plugged/nerdtree/autoload/nerdtree.vim	/^function! s:reuseWin(dir) abort$/;"	f
+revert	autoload/plug.vim	/^function! s:revert()$/;"	f
+rm_rf	autoload/plug.vim	/^function! s:rm_rf(dir)$/;"	f
+rtp	autoload/plug.vim	/^function! s:rtp(spec)$/;"	f
+s:Bookmark	plugged/nerdtree/lib/nerdtree/bookmark.vim	/^let s:Bookmark = {}$/;"	v
+s:Creator	plugged/nerdtree/lib/nerdtree/creator.vim	/^let s:Creator = {}$/;"	v
+s:Event	plugged/nerdtree/lib/nerdtree/event.vim	/^let s:Event = {}$/;"	v
+s:FlagSet	plugged/nerdtree/lib/nerdtree/flag_set.vim	/^let s:FlagSet = {}$/;"	v
+s:KeyMap	plugged/nerdtree/lib/nerdtree/key_map.vim	/^let s:KeyMap = {}$/;"	v
+s:MenuController	plugged/nerdtree/lib/nerdtree/menu_controller.vim	/^let s:MenuController = {}$/;"	v
+s:MenuItem	plugged/nerdtree/lib/nerdtree/menu_item.vim	/^let s:MenuItem = {}$/;"	v
+s:NERDTree	plugged/nerdtree/lib/nerdtree/nerdtree.vim	/^let s:NERDTree = {}$/;"	v
+s:Notifier	plugged/nerdtree/lib/nerdtree/notifier.vim	/^let s:Notifier = {}$/;"	v
+s:Opener	plugged/nerdtree/lib/nerdtree/opener.vim	/^let s:Opener = {}$/;"	v
+s:Path	plugged/nerdtree/lib/nerdtree/path.vim	/^let s:Path = {}$/;"	v
+s:TYPE	autoload/plug.vim	/^let s:TYPE = {$/;"	v
+s:TreeDirNode	plugged/nerdtree/lib/nerdtree/tree_dir_node.vim	/^let s:TreeDirNode = copy(g:NERDTreeFileNode)$/;"	v
+s:TreeFileNode	plugged/nerdtree/lib/nerdtree/tree_file_node.vim	/^let s:TreeFileNode = {}$/;"	v
+s:UI	plugged/nerdtree/lib/nerdtree/ui.vim	/^let s:UI = {}$/;"	v
+s:base_spec	autoload/plug.vim	/^let s:base_spec = { 'branch': '', 'frozen': 0 }$/;"	v
+s:cpo_save	autoload/plug.vim	/^let s:cpo_save = &cpo$/;"	v
+s:dirArrows	plugged/nerdtree/syntax/nerdtree.vim	/^    let s:dirArrows = escape(g:NERDTreeDirArrowCollapsible, '~]\\-').escape(g:NERDTreeDirArrowExpandable, '~]\\-')$/;"	v
+s:first_rtp	autoload/plug.vim	/^let s:first_rtp = s:escrtp(get(s:split_rtp(), 0, ''))$/;"	v
+s:functionWithoutEndStatement	syntax/matlab.vim	/^   let s:functionWithoutEndStatement=0 " default is w\/ end$/;"	v
+s:is_win	autoload/plug.vim	/^let s:is_win = has('win32')$/;"	v
+s:keyMaps	plugged/nerdtree/lib/nerdtree/key_map.vim	/^let s:keyMaps = {}$/;"	v
+s:last_rtp	autoload/plug.vim	/^let s:last_rtp  = s:escrtp(get(s:split_rtp(), -1, ''))$/;"	v
+s:loaded	autoload/plug.vim	/^let s:loaded = get(s:, 'loaded', {})$/;"	v
+s:mac_gui	autoload/plug.vim	/^let s:mac_gui = has('gui_macvim') && has('gui_running')$/;"	v
+s:me	autoload/plug.vim	/^  let s:me = resolve(expand('<sfile>:p'))$/;"	v
+s:molokai_original	colors/molokai.vim	/^    let s:molokai_original = 0$/;"	v
+s:molokai_original	colors/molokai.vim	/^    let s:molokai_original = g:molokai_original$/;"	v
+s:nvim	autoload/plug.vim	/^let s:nvim = has('nvim-0.2') || (has('nvim') && exists('*jobwait') && !s:is_win)$/;"	v
+s:old_cpo	plugged/nerdtree/plugin/NERD_tree.vim	/^let s:old_cpo = &cpoptions$/;"	v
+s:plug_buf	autoload/plug.vim	/^let s:plug_buf = get(s:, 'plug_buf', -1)$/;"	v
+s:plug_src	autoload/plug.vim	/^let s:plug_src = 'https:\/\/github.com\/junegunn\/vim-plug.git'$/;"	v
+s:plug_tab	autoload/plug.vim	/^let s:plug_tab = get(s:, 'plug_tab', -1)$/;"	v
+s:rootNERDTreePath	plugged/nerdtree/autoload/nerdtree.vim	/^let s:rootNERDTreePath = resolve(expand('<sfile>:p:h:h'))$/;"	v
+s:syntax_block_definitions	syntax/matlab.vim	/^   let s:syntax_block_definitions=1$/;"	v
+s:tree_up_dir_line	plugged/nerdtree/syntax/nerdtree.vim	/^let s:tree_up_dir_line = '.. (up a dir)'$/;"	v
+s:triggers	autoload/plug.vim	/^let s:triggers = get(s:, 'triggers', {})$/;"	v
+s:use_exception_try_catch	syntax/matlab.vim	/^   let s:use_exception_try_catch=1$/;"	v
+s:vim8	autoload/plug.vim	/^let s:vim8 = has('patch-8.0.0039') && exists('*job_start')$/;"	v
+section	autoload/plug.vim	/^function! s:section(flags)$/;"	f
+shellesc_cmd	autoload/plug.vim	/^function! s:shellesc_cmd(arg, script)$/;"	f
+shellesc_ps1	autoload/plug.vim	/^function! s:shellesc_ps1(arg)$/;"	f
+shellesc_sh	autoload/plug.vim	/^function! s:shellesc_sh(arg)$/;"	f
+showMenu	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:showMenu(node) abort$/;"	f
+snapshot	autoload/plug.vim	/^function! s:snapshot(force, ...) abort$/;"	f
+source	autoload/plug.vim	/^function! s:source(from, ...)$/;"	f
+spawn	autoload/plug.vim	/^function! s:spawn(name, cmd, opts)$/;"	f
+split_rtp	autoload/plug.vim	/^function! s:split_rtp()$/;"	f
+status	autoload/plug.vim	/^function! s:status()$/;"	f
+status_load	autoload/plug.vim	/^function! s:status_load(lnum)$/;"	f
+status_update	autoload/plug.vim	/^function! s:status_update() range$/;"	f
+switch_in	autoload/plug.vim	/^function! s:switch_in()$/;"	f
+switch_out	autoload/plug.vim	/^function! s:switch_out(...)$/;"	f
+syntax	autoload/plug.vim	/^function! s:syntax()$/;"	f
+system	autoload/plug.vim	/^function! s:system(cmd, ...)$/;"	f
+system_chomp	autoload/plug.vim	/^function! s:system_chomp(...)$/;"	f
+tick	autoload/plug.vim	/^function! s:tick()$/;"	f
+to_a	autoload/plug.vim	/^function! s:to_a(v)$/;"	f
+to_s	autoload/plug.vim	/^function! s:to_s(v)$/;"	f
+toggleIgnoreFilter	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:toggleIgnoreFilter() abort$/;"	f
+toggleShowBookmarks	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:toggleShowBookmarks() abort$/;"	f
+toggleShowFiles	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:toggleShowFiles() abort$/;"	f
+toggleShowHidden	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:toggleShowHidden() abort$/;"	f
+toggleZoom	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:toggleZoom() abort$/;"	f
+trim	autoload/plug.vim	/^function! s:trim(str)$/;"	f
+upDirCurrentRootClosed	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:upDirCurrentRootClosed() abort$/;"	f
+upDirCurrentRootOpen	plugged/nerdtree/autoload/nerdtree/ui_glue.vim	/^function! s:upDirCurrentRootOpen() abort$/;"	f
+update	autoload/plug.vim	/^function! s:update(force, names)$/;"	f
+update_finish	autoload/plug.vim	/^function! s:update_finish()$/;"	f
+update_impl	autoload/plug.vim	/^function! s:update_impl(pull, force, args) abort$/;"	f
+update_python	autoload/plug.vim	/^function! s:update_python()$/;"	f
+update_ruby	autoload/plug.vim	/^function! s:update_ruby()$/;"	f
+update_vim	autoload/plug.vim	/^function! s:update_vim()$/;"	f
+upgrade	autoload/plug.vim	/^function! s:upgrade()$/;"	f
+upgrade_specs	autoload/plug.vim	/^function! s:upgrade_specs()$/;"	f
+version_requirement	autoload/plug.vim	/^function! s:version_requirement(val, min)$/;"	f
+warn	autoload/plug.vim	/^function! s:warn(cmd, msg)$/;"	f
+with_cd	autoload/plug.vim	/^function! s:with_cd(cmd, dir, ...)$/;"	f
+wrap_cmds	autoload/plug.vim	/^  function! s:wrap_cmds(cmds)$/;"	f
